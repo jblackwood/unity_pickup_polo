@@ -1,5 +1,5 @@
 # Unity Pickup Polo
-This is a small water polo video game I made in Unity as a personal project. It was a fun project for learning Unity with a topic I'm passionate about.
+This is a small water polo video game I made in Unity as a personal project. It was a fun project for learning Unity and combining it with my water polo background.
 
 
 The main game loop entry point is in [Assets/Src/Gameloop.cs](https://github.com/jblackwood/unity_pickup_polo/blob/2fe51fd6383384ef7e8857bfaac9cb837086cb2e/Assets/Src/GameLoop.cs#L86):
