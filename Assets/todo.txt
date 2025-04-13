@@ -1,0 +1,8 @@
+x pass ball into open water away from defender
+x fix collision bug that caused ball to jump around
+- protect ball if defender is really close
+- decrease pass accuracy based on distance and if engaged with defense
+- decide foul or steal after steal ball animation
+- 2m defense that tries to get between ball and offender
+- 2m offense that tries to hold water from defender
+- AI offense that tries to get open on perimeter

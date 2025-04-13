@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 84b8adf28b7ec448d8d476f278f74e3e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - athletePrefab: {instanceID: 0}
+  - camObj: {instanceID: 0}
+  - joystick: {instanceID: 0}
+  - leftButton: {instanceID: 0}
+  - middleButton: {instanceID: 0}
+  - rightButton: {instanceID: 0}
+  - shotClockUI: {instanceID: 0}
+  - ballPrefab: {instanceID: 0}
+  - boundaryEast: {instanceID: 0}
+  - boundaryWest: {instanceID: 0}
+  - boundaryNorth: {instanceID: 0}
+  - boundarySouth: {instanceID: 0}
+  - goalEast: {instanceID: 0}
+  - goalWest: {instanceID: 0}
+  - controlledAthleteIconPrefab: {instanceID: 0}
+  - receivingAthleteIconPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
