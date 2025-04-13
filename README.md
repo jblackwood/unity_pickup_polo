@@ -2,7 +2,7 @@
 This is a small water polo video game I made in Unity as a personal project. It was a fun project for learning Unity with a topic I'm passionate about.
 
 
-The main game loop entry point is in [Assets/Src/Gameloop.cs]():
+The main game loop entry point is in [Assets/Src/Gameloop.cs](https://github.com/jblackwood/unity_pickup_polo/blob/2fe51fd6383384ef7e8857bfaac9cb837086cb2e/Assets/Src/GameLoop.cs#L86):
 ```
 ...
 // Update is called once per frame
@@ -14,7 +14,7 @@ void Update()
 ```
 
 
-The game logic is entirely contained in the static functions `CollisionRules.runCollisionRules` and `UpdateRules.runUpdateRules(state);` for how the game state should update each frame. For example [Assets/Src/Rules/UpdatesRules.cs]() looks like:
+The game logic is entirely contained in the static functions `CollisionRules.runCollisionRules` and `UpdateRules.runUpdateRules(state);` for how the game state should update each frame. For example [Assets/Src/Rules/UpdatesRules.cs](https://github.com/jblackwood/unity_pickup_polo/blob/2fe51fd6383384ef7e8857bfaac9cb837086cb2e/Assets/Src/Rules/UpdateRules.cs#L13) looks like:
 ```
 namespace PickupPolo
 {
