@@ -14,7 +14,7 @@ void Update()
 ```
 
 
-The game logic is entirely contained in the static functions `CollisionRules.runCollisionRules` and `UpdateRules.runUpdateRules(state);` for how the game state should update each frame. For example [Assets/Src/Rules/UpdatesRules.cs](https://github.com/jblackwood/unity_pickup_polo/blob/2fe51fd6383384ef7e8857bfaac9cb837086cb2e/Assets/Src/Rules/UpdateRules.cs#L13) looks like:
+The game logic is entirely contained in the static functions `CollisionRules.runCollisionRules` and `UpdateRules.runUpdateRules(state)` for how the game state should update each frame. For example [Assets/Src/Rules/UpdatesRules.cs](https://github.com/jblackwood/unity_pickup_polo/blob/2fe51fd6383384ef7e8857bfaac9cb837086cb2e/Assets/Src/Rules/UpdateRules.cs#L13) looks like:
 ```
 namespace PickupPolo
 {
